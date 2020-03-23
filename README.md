@@ -8,5 +8,5 @@
 
 <details>
   <summary>页面截图 (点击展开)</summary>
-![](https://cdn.jsdelivr.net/gh/waleslau/CDN/img/20200323131051.gif)
+![](https://github.com/waleslau/CDN/raw/master/img/20200323131051.gif)
 </details>
