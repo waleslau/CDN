@@ -4,10 +4,12 @@
 
 ## How to use  
 
-`https://cdn.jsdelivr.net/gh/waleslau/CDN/path/of/file`
+`https://cdn.jsdelivr.net/gh/waleslau/CDN/path/of/file`  
 
 <details>
-  <summary>页面截图 (点击展开)</summary>
-  ![实例1](https://cdn.jsdelivr.net/gh/waleslau/CDN/img/20200323131429.jpg)
-  ![示例2](https://github.com/waleslau/CDN/raw/master/img/20200323131051.gif)
+
+  <summary>往下看之前请先确保你已满 18 周岁</summary>
+
+  ![Are you 18](https://github.com/JAVClub/core/raw/master/docs/are-you-18.jpg)
+
 </details>
