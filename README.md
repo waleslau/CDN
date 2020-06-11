@@ -14,9 +14,9 @@
 
   ![示例2](https://github.com/waleslau/CDN/raw/master/img/20200323131429.jpg)
   
-  ![3](https://cdn.jsdelivr.net/gh/waleslau/CDN/img/20200323131051.gif)
+  ![3](https://cdn.jsdelivr.net/gh/waleslau/CDN@master/img/20200323131051.gif)
   
-  ![4](https://cdn.jsdelivr.net/gh/waleslau/CDN/img/20200323131429.jpg)
+  ![4](https://cdn.jsdelivr.net/gh/waleslau/CDN@master/img/20200323131429.jpg)
 
 
 </details>
